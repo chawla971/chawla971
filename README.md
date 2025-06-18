@@ -1,24 +1,22 @@
-# 👋 Hi, I’m Sahil Chawla
+# Hi there, I’m Sahil Chawla 👋
 
-🎓 I’m finishing my B.Sc. in Computer Science (Co-op designation) at UBC Okanagan in August 2025.
+## 🎓 About Me
+- Computer Science BSc candidate at UBC Okanagan (Graduating August 2025)  
+- 1+ year of full-stack development co-op experience & directed-studies AI integration  
 
----
+## 💼 Professional Highlights
+- **Data Modeling & Analysis:** Reverse-engineered 32 MySQL tables & designed UML diagrams to optimize data models for accurate, consistent reporting  
+- **Backend Automation:** Built PHP services to auto-generate 9 program-level & 10 course-level Excel reports, embedding custom KPIs aligned with strategic goals  
+- **Product Enhancement:** Expanded UBC’s open-access Curriculum MAP tool with CSV/Excel exports, customizable visualizations, stream-based grouping, and engagement flags  
+- **AI Integration:** Developed Python pipelines to fetch, transform, and deploy Confluence knowledge articles to a chatbot, improving support accuracy and uptime  
 
-## 🌱 What I’m Learning
-- **AI & NLP** integrations with Confluence and chatbots (directed-studies project)  
-- Advanced **full-stack** techniques in Laravel, Next.js, and PostgreSQL (with `pgvector`)  
-- Best practices in **UI/UX design**—from Figma workflows to component libraries  
+## 🛠️ Tech Stack
+- **Languages:** JavaScript · TypeScript · PHP · Python · Java  
+- **Frameworks & Libraries:** Laravel · Next.js · Express · React  
+- **Databases:** MySQL · PostgreSQL (pgvector)  
+- **Tools & AI:** Docker · Git · OpenAI API · LangChain  
 
----
-
-## 💼 What I’m Working On
-- **HelpMe Chatbot**: Importing Confluence docs via API and evaluating AI responses  
-- **Curriculum Mapping Tool (CMAP)**: Building Excel report exports and data visualizations  
-- **Directed Studies Report**: Documenting my Python integration between Confluence and our AI system  
-
----
-
-## 🎨 Hobbies & Interests
-- **Digital Illustration** & UI mockups in Figma  
-- Exploring **data visualization** with Python (Matplotlib) and Power BI  
-- Reading sci-fi novels and experimenting with **Arduino** microcontrollers
+## 🌱 Interests
+- Conversational AI & NLP  
+- Data visualization & analytics  
+- Inclusive & assistive tech design  
