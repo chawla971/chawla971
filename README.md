@@ -11,10 +11,10 @@
 - **AI Integration:** Developed Python pipelines to fetch, transform, and deploy Confluence knowledge articles to a chatbot, improving support accuracy and uptime  
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript · TypeScript · PHP · Python · Java  
-- **Frameworks & Libraries:** Laravel · Next.js · Express · React  
+- **Languages:** C# . JavaScript · TypeScript · PHP · Python · Java  
+- **Frameworks & Libraries:** .NET . Laravel · Next.js · Express · React  
 - **Databases:** MySQL · PostgreSQL (pgvector)  
-- **Tools & AI:** Docker · Git · OpenAI API · LangChain  
+- **Tools & AI:** AWS . Docker · Git · OpenAI API · LangChain  
 
 ## 🌱 Interests
 - Conversational AI & NLP  
