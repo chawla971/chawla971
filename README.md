@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 - Computer Science BSc candidate at UBC Okanagan (Graduating August 2025)  
-- 1+ year of full-stack development co-op experience & directed-studies AI integration  
+- 2+ year of full-stack development co-op experience & directed-studies AI integration  
 
 ## 💼 Professional Highlights
 - **Data Modeling & Analysis:** Reverse-engineered 32 MySQL tables & designed UML diagrams to optimize data models for accurate, consistent reporting  
